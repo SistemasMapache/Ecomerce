@@ -22,19 +22,19 @@ for ($i=0; $i<$numprodutos; $i++){
 	echo <<< _END
 
     </br>
-	$tipoproduto
+	Tipo: $tipoproduto
 	</br>
-	$nomeproduto
+	Nome: $nomeproduto
 	</br>
-	$marcaproduto
+	Marca: $marcaproduto
 	</br>
-	$descricaoproduto
+	Descrição: $descricaoproduto
 	</br>
-	$especificacoesproduto
+	Especificações: $especificacoesproduto
 	</br>
-	$precoproduto
+	Preço R$:$precoproduto
 	</br>
-	$idproduto
+	ID: $idproduto
 	</br>
 _END;
 
