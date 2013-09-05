@@ -19,16 +19,9 @@ for ($i=0; $i<$numprodutos; $i++){
 	$precoproduto=$dentro->precoproduto;
 	$idproduto=$dentro->idproduto;
 	
-	
+	echo <<< _END
 
-	
-	
-}
-
-
-
-echo <<< _END
-<html>
+    </br>
 	$tipoproduto
 	</br>
 	$nomeproduto
@@ -41,7 +34,16 @@ echo <<< _END
 	</br>
 	$precoproduto
 	</br>
-	$idproduto</html>
+	$idproduto
+	</br>
 _END;
+
+
+	
+	
+}
+
+
+
 
 ?>

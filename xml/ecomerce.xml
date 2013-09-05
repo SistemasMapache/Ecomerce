@@ -24,4 +24,30 @@ Macbook Pro de 13"
 1
 </idproduto>
 </produto>
+
+
+<produto>
+<tipoproduto>
+Celular
+</tipoproduto>
+<nomeproduto>
+Iphone 5
+</nomeproduto>
+<marcaproduto>
+Apple
+</marcaproduto>
+<descricaoproduto>
+Iphone 16gb
+</descricaoproduto>
+<especificacoesproduto>
+1Gb RAM
+16 GB 
+</especificacoesproduto>
+<precoproduto>
+2.500,00
+</precoproduto>
+<idproduto>
+2
+</idproduto>
+</produto>
 </data>
