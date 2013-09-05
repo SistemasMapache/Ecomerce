@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+<produto>
+<tipoproduto>
+Notebook
+</tipoproduto>
+<nomeproduto>
+Macbook Pro
+</nomeproduto>
+<marcaproduto>
+Apple
+</marcaproduto>
+<descricaoproduto>
+Macbook Pro de 13" 
+</descricaoproduto>
+<especificacoesproduto>
+4Gb RAM
+250 GB HD
+</especificacoesproduto>
+<precoproduto>
+3.000,00
+</precoproduto>
+<idproduto>
+1
+</idproduto>
+</produto>
+</data>
