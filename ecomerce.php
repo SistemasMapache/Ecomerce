@@ -9,14 +9,12 @@ $numprodutos= $dom->count();
 for ($i=0; $i<$numprodutos; $i++){
 	
 	$dentro= $dom->produto[$i];
-	
 	$tipoproduto=$dentro->tipoproduto;
 	$nomeproduto=$dentro->nomeproduto;
 	$marcaproduto=$dentro->marcaproduto;
 	$descricaoproduto=$dentro->descricaoproduto;
 	$especificacoesproduto=$dentro->especificacoesproduto;
 	$precoproduto=$dentro->precoproduto;
-	$idproduto=$dentro->idproduto;
 	
 	echo <<< _END
 
@@ -31,9 +29,9 @@ for ($i=0; $i<$numprodutos; $i++){
 	</br>
 	Especificações: $especificacoesproduto
 	</br>
-	Preço R$:$precoproduto
+	Preço R$: $precoproduto
 	</br>
-	ID: $idproduto
+	Id: $i
 	</br>
 _END;
 
