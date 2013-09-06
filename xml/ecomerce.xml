@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <data>
+
+
 <produto>
 <tipoproduto>
 Notebook
@@ -50,4 +52,5 @@ Iphone 16gb
 2
 </idproduto>
 </produto>
-</data>
+
+<produto><tipoproduto>Celular</tipoproduto><nomeproduto>Lumia 900</nomeproduto><marcaproduto>Nokia</marcaproduto><descricaoproduto>foda</descricaoproduto><especificacoesproduto>espec</especificacoesproduto><precoproduto>900,00</precoproduto><idproduto>10</idproduto></produto><produto><tipoproduto>Tenis</tipoproduto><nomeproduto>Shox</nomeproduto><marcaproduto>Nike</marcaproduto><descricaoproduto>Tenis com molas</descricaoproduto><especificacoesproduto>8 molas</especificacoesproduto><precoproduto>500,00</precoproduto><idproduto>12</idproduto></produto></data>
