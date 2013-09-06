@@ -6,7 +6,6 @@ $dom= simplexml_import_dom($xml);
 $numprodutos= $dom->count();
 
 
-
 for ($i=0; $i<$numprodutos; $i++){
 	
 	$dentro= $dom->produto[$i];
